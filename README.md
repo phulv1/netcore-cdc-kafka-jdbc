@@ -1,0 +1,1 @@
+# netcore-cdc-kafka-jdbc
